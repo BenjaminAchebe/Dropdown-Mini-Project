@@ -4,7 +4,7 @@ This is a mini dropdown CSS application built using HTML and CSS. The applicatio
 ### Getting Started
 To get started with the Mini Dropdown CSS Application, you will need a web browser installed on your computer. The application is compatible with most modern web browsers, including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
 
-To launch the application, simply open the `index.html` file in your web browser.
+To launch the application, simply open the `index.html` file in your web browser or click on the <a href="https://benjaminachebe.github.io/Dropdown-Mini-Project/" target="_blank">`link`</a>
 
 ### Structure
 The Mini Dropdown CSS Website is structured as follows:

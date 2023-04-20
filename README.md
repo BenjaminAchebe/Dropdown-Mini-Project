@@ -6,10 +6,10 @@ To get started with the Mini Dropdown CSS Application, you will need a web brows
 
 To launch the application, simply open the `index.html` file in your web browser.
 
-### Application Structure
-The Mini Dropdown CSS Application is structured as follows:
+### Structure
+The Mini Dropdown CSS Website is structured as follows:
 
-```css
+```diff
 index.html
 style.css
 ```

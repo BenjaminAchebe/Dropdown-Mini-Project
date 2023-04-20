@@ -1,4 +1,4 @@
-# Mini Dropdown CSS Application
+# Mini Dropdown CSS website
 This is a mini dropdown CSS application built using HTML and CSS. The application allows users to create a simple dropdown menu that can be used for navigation or other purposes.
 
 ### Getting Started
